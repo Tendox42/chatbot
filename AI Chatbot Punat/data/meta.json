@@ -1,0 +1,22 @@
+{
+  "base_url": "https://www.punat.hr/",
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "count": 3148,
+  "embedding_dim": 384,
+  "index_type": "IndexFlatIP (cosine via normalized embeddings)",
+  "created_at_unix": 1769546477,
+  "skipped_extensions": [
+    ".pdf",
+    ".doc",
+    ".docx",
+    ".xls",
+    ".xlsx",
+    ".ppt",
+    ".pptx",
+    ".zip",
+    ".rar"
+  ],
+  "max_pages": 150,
+  "chunk_size_chars": 1200,
+  "chunk_overlap_chars": 200
+}
